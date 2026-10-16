@@ -33,3 +33,4 @@ To verify everything is working:
    ```bash
    pytest test.py -v
 streamlit run app.py
+live demo link=https://clip-typographic-demo.streamlit.app/
